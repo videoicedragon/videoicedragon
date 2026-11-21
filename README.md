@@ -4,7 +4,13 @@ A Python desktop application project built with Qt.
 
 ## About
 
-videoicedragon is planned as a desktop application developed using Python and a Qt framework. The project focuses on creating a cross-platform graphical user interface with native-feeling widgets and an organized application structure.
+videoicedragon is planned as a desktop application developed using Python and a Qt framework. The project focuses on creating a cross-platform graphical user interface with native-feeling widgets and responsive layouts.
+
+## Python & Linux Developer Bio
+
+Python and Linux developer focused on building efficient, reliable, and maintainable software. Experienced in developing desktop applications with Qt and PySide6, and comfortable working across Linux environments, Python tooling, and cross-platform development. Interested in practical GUI solutions, open-source projects, and combining clean architecture with native-feeling interfaces.
+
+**Languages & Technologies:** Python, Linux, Qt, PySide6, Bash, Git
 
 ## Technologies
 
